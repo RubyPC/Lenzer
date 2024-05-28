@@ -16,3 +16,4 @@ $ python setup.py install
 * [SkyPy](https://pypi.org/project/skypy/)
 
 ### Warnings 
+The PEMD (Power-Law Elliptical Mass Distribution) lens model requires the *fastell4py* package to run. This can be cloned from [here](https://github.com/sibirrer/fastell4py), though requires a fortran compiler.
