@@ -4,8 +4,8 @@ Software package for simulating strong gravitational lenses that can be used for
 
 To install *Lenzer*, clone the repository at the top of the page: run the following commands in your working directory
 > git clone https://github.com/RubyPC/Lenzer.git <desired location>
-> cd <desired location>$
-> python setup.py install$
+> cd <desired location>
+> python setup.py install
 
 ### Requirements 
 * [Lenstronomy](https://lenstronomy.readthedocs.io/en/latest/)
