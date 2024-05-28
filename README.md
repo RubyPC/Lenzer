@@ -14,6 +14,7 @@ $ python setup.py install
 * [Colossus](https://ui.adsabs.harvard.edu/abs/2018ApJS..239...35D/abstract)
 * [Speclite](https://speclite.readthedocs.io/en/latest/)
 * [SkyPy](https://pypi.org/project/skypy/)
+* [Astropy](https://www.astropy.org)
 
 ### Warnings 
 The PEMD (Power-Law Elliptical Mass Distribution) lens model requires the *fastell4py* package to run. This can be cloned from [here](https://github.com/sibirrer/fastell4py), though requires a fortran compiler.
