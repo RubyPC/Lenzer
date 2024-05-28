@@ -2,6 +2,9 @@
 
 Software package for simulating strong gravitational lenses that can be used for machine learning applications. This repository contains information, source code and a worked example of  how to simulate mock lenses (and the unlensed source) for Euclid observations.
 
+To install *Lenzer*, clone the repository at the top of the page and run the following command in your working directory
+> python setup.py install
+
 ### Requirements 
 * [Lenstronomy](https://lenstronomy.readthedocs.io/en/latest/)
 * [Colossus](https://ui.adsabs.harvard.edu/abs/2018ApJS..239...35D/abstract)
