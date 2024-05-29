@@ -2,6 +2,8 @@
 
 Software package for simulating strong gravitational lenses that can be used for machine learning applications. This repository contains information, source code and a worked example of  how to simulate mock lenses (and the unlensed source) for Euclid observations.
 
+Lenzer also supports alternative catalogs to COSMOS. Simply change the catalog class to *SersicCatalog*.
+
 To install *Lenzer*, clone the repository at the top of the page: run the following commands in your working directory
 ```
 $ git clone https://github.com/RubyPC/Lenzer.git <desired location>
